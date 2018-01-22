@@ -3,7 +3,7 @@ Making a _Flood It_ game using the flood fill algorithm (recursive approach) in 
 
 ## Installation
 
-Install YoYo Game's GameMaker: Studio (1 or 2), place all files in a directory, and flood-game.project in the software.
+Install YoYo Game's GameMaker: Studio (1.x [or 2.x with minor syntaxical adjustments]), place all files in a single directory, and open flood-game.project in the software.
 
 ## Authors
 
