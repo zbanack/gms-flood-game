@@ -1,4 +1,4 @@
-# gms-flood-game
+# GameMaker Studio (GML) Flood game
 Making a _Flood It_ game using the flood fill algorithm (recursive approach) in GameMaker: Studio. This project corresponds to a blog post tutorial, [found here](https://zackbanack.com/blog/floodgame).
 
 ## Installation
